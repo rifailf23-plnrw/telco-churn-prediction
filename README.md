@@ -1,1 +1,1 @@
-# teleco-churn-prediction
+# telco-churn-prediction
